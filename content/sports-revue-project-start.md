@@ -5,7 +5,7 @@ description = "Project begins"
 image = "/images/56f45d1c-960a-436b-af68-16fd7c145d7c.webp"
 tags = ["Project", "Begins", "Sports", "revue"]
 title = "Sports Revue project start"
-type = "post"
+type = "featured"
 
 +++
 Sports Revue Begins with three key ideas. 

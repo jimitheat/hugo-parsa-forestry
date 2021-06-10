@@ -1,33 +1,20 @@
 ---
-title: "About"
-date: 2019-05-14T14:46:10+06:00
-description: "This is SPORTS REVUUUEEE"
-image: "images/author.jpg"
+title: About
+date: 2019-05-14T14:46:10.000+06:00
+description: This is SPORTS REVUUUEEE
+image: images/author.jpg
+
 ---
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
-generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour
-around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a
-few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling
-stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+What is Sports Revue?
 
-I hear the buzz
-of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
-and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that
-universal love which bears and sustains.
+Sports Revue is a show about our Sporting Heros gathering together provide humour entertainment without the Political correctness. 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+As with all sports, there are always those that are less fortunate than the heros. Sporting Heros provide energy and leadership to those less fortunate. 
 
+But with all organisations and Charity there needs to be a system to support this change/challenge. 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+Currently the back end system for supporting events are archaic and slow. Sports revue looks at changing all of this with the funding to support an efficient system to distribute charity funds and tickets. 
+
+The project looks to also incorporate some form of DLT to manage this ticketing system and NFTs to capture the Sports Revue show for those less fortunate to watch the show. 
+
+This idea was produced on the 10th of June 
